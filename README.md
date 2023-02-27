@@ -23,3 +23,19 @@
 ##### • Detalle de las especialidades.
 ##### • Organización de turnos.
 ##### • Detalle de las obras sociales y prepagas aceptadas.
+
+
+## Manual de Implementacion
+
+##### Dentro de la carpeta SCRIPTS vamos a encontrar distintos archivos los cuales debemos ejecutarlos en el orden que se encuentran detallados.
+##### Los mismos deben ser ejecutados de la siguiente manera:
+
+##### 01-CREATE.sql
+##### 02-INSERT.sql
+##### 03-VIEW.sql
+##### 04-FUNCTIONS.sql
+##### 05-STORED_PROCEDURES.sql
+##### 06-TRIGGERS.sql
+##### 07-USERS.sql
+##### 08-TCL1.sql
+##### 09-TCL2.sql
