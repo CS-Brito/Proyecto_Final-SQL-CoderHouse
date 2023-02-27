@@ -1,4 +1,4 @@
-# Proyecto_Final-SQL-CoderHouse
+# Proyecto Final de SQL - CoderHouse
 ##### Comisión: 34960
 
 # **Centro de Saludos y Bienestar**
